@@ -1,5 +1,5 @@
 # MiniRogue_Game
-Character-based game made for introductory CS course.
+Character-based C++ game.
 
    Table of Contents
    -----------------
@@ -18,7 +18,7 @@ Character-based game made for introductory CS course.
 1.) Introduction 
    --------------------------------
    
-The MiniRogue game was created for an introductory CS course, and it uses character-based graphics. In this game, the player's objective is to find a golden idol while navigating a series of dungeons. The player will run into monsters, find items, and descend staircases during the journey. 
+This MiniRogue game is modeled after the original Unix Rogue game. In the game, the player's objective is to find a golden idol while navigating a series of dungeons. The player will run into monsters, find items, and descend staircases during the journey. 
 
 The MiniRogue dungeon is 5 levels deep. When the game starts, the player is placed on level 0; the deepest level is level 4.
 At the start of a new game and every time the player takes a stairway down, a new level is randomly generated.
