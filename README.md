@@ -89,7 +89,7 @@ During this project, I applied many fundamental CS concpets to create a playable
 5.) Video Demo
    ------------
 
-placeholder
+https://youtu.be/Pa0JV9_BrFA
 
 ------------------------------------------------------------------------
 Created by Nicholas P. Dean on 9/9/20.
