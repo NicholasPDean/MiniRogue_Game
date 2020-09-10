@@ -28,7 +28,7 @@ At the start of a new game and every time the player takes a stairway down, a ne
    
 The player is shown on screen as an **@**.
 
-The different types of monsters that you may encounter and their corresponding symbols are below:\
+The different types of monsters that you may encounter and their corresponding symbols are below:
 
 Bogeymen (shown on screen as a **B**)\
 Dragons (shown on screen as a **D**)\
