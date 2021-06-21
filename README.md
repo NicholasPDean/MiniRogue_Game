@@ -1,4 +1,7 @@
 # MiniRogue_Game
+
+*Code could not be posted online as this code is a solution for a class assignment.*
+
 Character-based C++ game.
 
    Table of Contents
