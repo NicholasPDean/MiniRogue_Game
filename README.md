@@ -42,19 +42,21 @@ The different types of objects you may encounter are below:
 
 Impenetrable walls (shown on screen as **#**)\
 Stairways down to the next level (shown on screen as **>**)\
-The golden idol (shown on screen as **&**)\
-Weapons (all weapons are shown on screen as a **)** character)\
-Maces\
-Short swords\
-Long swords\
-Magic fangs of sleep (that put an opponent to sleep)\
-Magic axes (that hit an opponent more often than regular weapons)\
-Scrolls (all scrolls are shown on screen as **?**)\
-A scroll of teleportation (when read, randomly moves the player)\
-A scroll of improve armor (when read, makes it harder for monsters to hit the player)\
-A scroll of raise strength (when read, makes a player's blows more effective)\
-A scroll of enhance health (when read, raises maximum hit points)\
-A scroll of enhance dexterity (when read, makes it more likely the player will hit an opponent)
+The golden idol (shown on screen as **&**)
+
+Weapons (all weapons are shown on screen as a **)** character):
+ * Maces
+ * Short swords
+ * Long swords
+ * Magic fangs of sleep (that put an opponent to sleep)
+ * Magic axes (that hit an opponent more often than regular weapons)
+
+Scrolls (all scrolls are shown on screen as **?**):
+ * A scroll of teleportation (when read, randomly moves the player)
+ * A scroll of improve armor (when read, makes it harder for monsters to hit the player)
+ * A scroll of raise strength (when read, makes a player's blows more effective)
+ * A scroll of enhance health (when read, raises maximum hit points)
+ * A scroll of enhance dexterity (when read, makes it more likely the player will hit an opponent)
 
 3.) Controls 
    ------------
